@@ -1,5 +1,5 @@
 package = "simpleoop"
-version = "dev-1"
+version = "0.1.0-1"
 rockspec_format = "3.0"
 
 source = {
