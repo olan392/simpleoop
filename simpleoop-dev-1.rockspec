@@ -3,7 +3,7 @@ version = "dev-1"
 rockspec_format = "3.0"
 
 source = {
-   url = "https://github.com/olan392/simpleoop"
+   url = "git+https://github.com/olan392/simpleoop.git"
 }
 
 description = {
